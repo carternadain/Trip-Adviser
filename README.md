@@ -1,6 +1,6 @@
 ## Title 
 
-Trip Adviser
+Trip Advisor
   
 ## Table of Contents:
   
