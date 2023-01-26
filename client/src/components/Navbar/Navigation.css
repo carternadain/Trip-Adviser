@@ -1,0 +1,16 @@
+.nav-container {
+    height: 100vh; /* Set the container to take up the full height of the viewport */
+    background-size: cover; /* Scale the background image to cover the entire container */
+    background-position: center; /* Center the background image */
+  }
+  
+  .start-button {
+    position: absolute; /* Position the button relative to the container */
+    bottom: 20px; /* Place the button 20px from the bottom of the container */
+    left: 50%; /* Center the button horizontally */
+    transform: translateX(-50%); /* Offset the button to the left by half its width */
+    background-color: #00bfff; /* Set the button's background color */
+    color: white; /* Set the button's text color */
+    padding: 10px 20px; /* Add some padding to the button */
+  }
+  
